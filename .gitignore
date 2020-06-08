@@ -1,0 +1,6 @@
+LibriSpeech_Samples/
+*.csv
+smsspamcollection/
+brown-universal.txt
+data/
+Project 3. DNN Speech Recognizer/
